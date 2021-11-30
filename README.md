@@ -1,2 +1,3 @@
 # hello-world
-I am a person who loves life
+我是一个热爱生活的人
+学习进取向上
